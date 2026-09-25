@@ -6,16 +6,31 @@
 - 🎯 Current Goal: Learning new technologies and building creative projects.
 
 ### 🛠️ Skills & Languages
-- **Programming Languages:** Python 🐍
-- **Tools & Technologies:** VS Code, PyCharm, Git
-- **🔭 I’m currently learning ...
+
+#### 💻 Programming & Web Development
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Python" />
+</p>
+
+#### 🔧 Tools & Technologies
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
+
+---
 
 ### 📫 How to reach me
 - 📧 Email: **saida.khedmati.2026@gmail.com**
-- ### 📊 My GitHub Stats
-![GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+- 💼 GitHub: [saidahmednazi2026-art](https://github.com)
 
-### 🛠️ Tech Stack
-![Python](https://shields.io) ![VS Code](https://shields.io) ![PyCharm](https://shields.io) ![Git](https://shields.io)
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" width="400" />
+</p>
 
